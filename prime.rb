@@ -1,10 +1,10 @@
 # Add  code here!
 def prime?
-  is_prime = true
-  for r in 2..Math.sqrt(self).to_i
-    if (self % r == 0)
-      prime = false
+  for r in 2..(n - 1)
+    if (n % d ) == 0
+      return false
     end
   end
-  return is_prime
+  true
 end
+
