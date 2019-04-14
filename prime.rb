@@ -8,4 +8,3 @@ def prime?
   end
   return is_prime
 end
-end
